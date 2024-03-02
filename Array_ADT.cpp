@@ -15,11 +15,10 @@ void create(){
 }
 
 void display(){
-	
 	for(int i = 0;i<k;i++ ){
 		cout<<a[i]<<endl;
 	}
-	
+	//some changes
 }
 
 void insert(){

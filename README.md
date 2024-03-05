@@ -74,12 +74,8 @@ SocialNetworking is developed as a standalone web application focused on fosteri
 ### Product Features
 The platform includes essential features such as user management, profile customization, post creation and interaction, friendship management, notifications, and real-time communication.
 
-![Activity Diagram](screenshots/activity_diagram.jpg.png)
-
 ### User Classes and Characteristics
 Users comprise regular users and administrators with varying levels of technical expertise and social networking experience. The platform is designed to be intuitive and user-friendly for users of all backgrounds.
-
-![Use Case Diagram](screenshots/use_case.png)
 
 ### Operating Environment
 The Django Social Network operates within a web-based environment, utilizing Django for the backend and supporting various browsers and operating systems for optimal accessibility.

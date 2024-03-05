@@ -44,7 +44,7 @@ The Django Social Network is a web application designed to facilitate social int
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your_username/SocialNetworking
+    git clone https://github.com/oneshikaa/SocialNetworking
     ```
 
 2. **Install Dependencies:**
